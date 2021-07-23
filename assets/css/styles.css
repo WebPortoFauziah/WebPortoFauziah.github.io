@@ -351,8 +351,7 @@ img{
 
 /* ===== FOOTER=====*/
 .footer{
-    background-color: var(--first-color);
-}
+    background-color: var(--darkfirst
 .footer__container{
     row-gap: 2rem;
 }
