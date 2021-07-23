@@ -11,8 +11,8 @@
 :root{
     --first-color: #58B09C;
     --white-color: #d3ded9;
-    --dark-color: #4a9181;
-    --text-color: #694114;
+    --dark-color: #386150;
+    --text-color: #9ea3a1;
 }
 
 /*===== Fuente y tipografia =====*/
@@ -352,6 +352,7 @@ img{
 /* ===== FOOTER=====*/
 .footer{
     background-color: var(--dark-color);
+}
 .footer__container{
     row-gap: 2rem;
 }
